@@ -1,96 +1,257 @@
-<h1 align="center">Hi 👋, I'm Ankush Datta</h1>
-<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=real1ankush&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+# 👋 Hi, I'm Ankush Datta
+
+### Full-Stack & AI/ML Developer · Building things that solve real problems
+
+<p>
+  <a href="https://github.com/Real1Ankush">
+    <img src="https://img.shields.io/github/followers/Real1Ankush?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Real1Ankush?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Real1Ankush?label=Stars&style=for-the-badge" />
+  </a>
+  <a href="mailto:ankushdatta712@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ankushdatta712%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/ankush datta" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/myth._4nkush" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.leetcode.com/1nonlyankush" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=Real1Ankush&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a developer from **India** interested in building practical software, exploring AI/ML, and creating clean user experiences.
+
+- 🌱 Currently learning **Data Structures & Algorithms**
+- 🤖 Exploring **Machine Learning, Computer Vision & AI**
+- 💻 Building projects with **Python, React, Node.js and more**
+- 🐧 Comfortable working with **Linux**
+- 🧠 Interested in turning ideas into real-world projects
+- 📚 Always learning something new
+
+---
+
+## ⚡ What I'm Working On
+
+```text
+DSA                 ███████████████░░░░░  Learning & Problem Solving
+Machine Learning    ████████████░░░░░░░░  Exploring & Building
+Web Development     ████████████████░░░░  Building Projects
+Computer Vision     ███████████░░░░░░░░░  Experimenting
+```
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,firebase" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+</p>
+
+### Data & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pandas,linux,git,github" />
 </p>
 
 ---
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=real1ankush&theme=radical&margin-w=15&no-frame=true" alt="GitHub Trophies" />
-  </a>
-</p>
+# 🚀 Featured Projects
 
-### 👨🏻‍💻 About Me
+> Replace the placeholders below with your actual repositories.
 
-- 🌱 I’m currently learning **Data Structures And Algorithms**
-- 🔭 I’m currently working on building awesome frontend experiences
-- 💬 Ask me about **Frontend Dev, React, and Python**
-- 📫 How to reach me: **ankushdatta712@gmail.com**
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Project One
+
+Short description of your project.
+
+**Tech:** Python · OpenCV · AI/ML
+
+<a href="https://github.com/Real1Ankush/REPOSITORY-NAME">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🌐 Project Two
+
+Short description of your project.
+
+**Tech:** React · Node.js · Firebase
+
+<a href="https://github.com/Real1Ankush/REPOSITORY-NAME">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 Project Three
+
+Short description of your project.
+
+**Tech:** Python · Machine Learning
+
+<a href="https://github.com/Real1Ankush/REPOSITORY-NAME">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### ⚡ Project Four
+
+Short description of your project.
+
+**Tech:** C++ · DSA · Algorithms
+
+<a href="https://github.com/Real1Ankush/REPOSITORY-NAME">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛠️ Languages and Tools
+# 📊 GitHub Analytics
 
-<p align="center">
-  <b>Languages:</b><br><br>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Frontend & App Dev:</b><br><br>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Real1Ankush&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
 
-<p align="center">
-  <b>Backend, DB & OS:</b><br><br>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Real1Ankush&layout=compact&hide_border=true&langs_count=8" />
 
-<p align="center">
-  <b>Machine Learning & Data Science:</b><br><br>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-</p>
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Real1Ankush&hide_border=true" />
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=real1ankush&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=real1ankush&show_icons=true&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
-</p>
+# 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=real1ankush&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=real1ankush&theme=radical&hide_border=true&cache_seconds=86400" alt="Contribution Graph" width="100%" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Real1Ankush&hide_border=true&area=true" width="95%"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <a href="https://github.com/real1ankush/YOUR_ACTUAL_REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=real1ankush&repo=YOUR_ACTUAL_REPO_NAME&theme=radical&cache_seconds=86400" alt="Project 1" />
-  </a>
-  <a href="https://github.com/real1ankush/YOUR_OTHER_REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=real1ankush&repo=YOUR_OTHER_REPO_NAME&theme=radical&cache_seconds=86400" alt="Project 2" />
-  </a>
-</p>
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/Real1Ankush">
+  <img src="https://github-profile-trophy.vercel.app/?username=Real1Ankush&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" />
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Real1Ankush/Real1Ankush/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Real1Ankush/Real1Ankush/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Real1Ankush/Real1Ankush/output/github-snake.svg">
+</picture>
+
+</div>
+
+---
+
+# 📌 GitHub Overview
+
+<div align="center">
+
+<a href="https://github.com/Real1Ankush?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View%20All-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/Real1Ankush?tab=stars">
+  <img src="https://img.shields.io/badge/Stars-View%20All-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/Real1Ankush?tab=followers">
+  <img src="https://img.shields.io/badge/Followers-View%20Profile-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ankushdatta">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/myth._4nkush">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/1nonlyankush">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="mailto:ankushdatta712@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"Build. Break. Learn. Repeat."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a5acd&height=100&section=footer"/>
+
+</div>
