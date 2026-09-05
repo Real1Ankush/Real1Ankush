@@ -42,6 +42,9 @@ DSA                 ███████████████░░░░░
 Machine Learning    ████████████░░░░░░░░  Exploring & Building
 Web Development     ████████████████░░░░  Building Projects
 Computer Vision     ███████████░░░░░░░░░  Experimenting
+
+```
+
 🛠️ Tech Stack
 Languages
 <p>
