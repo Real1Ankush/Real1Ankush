@@ -74,7 +74,7 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=real1ankush&show_icons=true&locale=en&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=real1ankush&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=real1ankush&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -85,20 +85,22 @@
 ### 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=real1ankush&bg_color=141321&color=fe428e&line=f38ba8&point=f38ba8&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=real1ankush&theme=radical&hide_border=true" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
 
 ### 🏆 Featured Projects
 
-*(Replace `YOUR_REPO_NAME` below with the actual names of your best repositories)*
+<!-- 
+IMPORTANT: You MUST change "your-actual-repo-name" below to the exact name of a repository that currently exists on your GitHub account, otherwise the images will remain broken. 
+-->
 
 <p align="center">
-  <a href="https://github.com/real1ankush/YOUR_REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=real1ankush&repo=YOUR_REPO_NAME_1&theme=radical" alt="Project 1" />
+  <a href="https://github.com/real1ankush/your-actual-repo-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=real1ankush&repo=your-actual-repo-name&theme=radical" alt="Project 1" />
   </a>
-  <a href="https://github.com/real1ankush/YOUR_REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=real1ankush&repo=YOUR_REPO_NAME_2&theme=radical" alt="Project 2" />
+  <a href="https://github.com/real1ankush/another-actual-repo-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=real1ankush&repo=another-actual-repo-name&theme=radical" alt="Project 2" />
   </a>
 </p>
