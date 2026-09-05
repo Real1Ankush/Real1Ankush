@@ -51,14 +51,6 @@ email: ankushdatta712@gmail.com
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Real1Ankush&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -72,26 +64,41 @@ email: ankushdatta712@gmail.com
 <img src="https://img.shields.io/badge/Joined-Aug%202025-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Real1Ankush&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&rank_icon=github" width="48%" alt="GitHub Stats" />
+<!-- Manual Stats Grid -->
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🔥%20Current%20Streak-1%20day-FF6B6B?style=for-the-badge&labelColor=0D1117" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/📊%20Total%20Contributions-20-00D4FF?style=for-the-badge&labelColor=0D1117" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/⭐%20Total%20Stars-0-FFD700?style=for-the-badge&labelColor=0D1117" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/📁%20Public%20Repos-4-00D4FF?style=for-the-badge&labelColor=0D1117" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/👥%20Followers-3-00D4FF?style=for-the-badge&labelColor=0D1117" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🗓️%20Joined-Aug%202025-00D4FF?style=for-the-badge&labelColor=0D1117" />
+</td>
+</tr>
+</table>
 
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Real1Ankush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" width="48%" alt="Top Languages" />
-
-<br><br>
+<br>
 
 <!-- Contribution Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Real1Ankush&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="80%" alt="Contribution Streak" />
+<img src="https://streak-stats.demolab.com/?user=Real1Ankush&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="80%" alt="Contribution Streak" />
 
 <br><br>
 
-<!-- Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Real1Ankush&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B" width="95%" alt="Contribution Activity Graph" />
-
-<br><br>
-
-<!-- 3D Contribution Graph -->
-<img src="https://github-contribution-graph.ez4o.com/?user=Real1Ankush&theme=tokyonight" width="95%" alt="3D Contribution Graph" />
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Real1Ankush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&cache_seconds=86400" width="48%" alt="Top Languages" />
 
 </div>
 
@@ -101,20 +108,75 @@ email: ankushdatta712@gmail.com
 
 <div align="center">
 
-<!-- Project 1: Pothole-Patrol -->
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🚧 Pothole-Patrol</h3>
+<p align="center">
 <a href="https://github.com/Real1Ankush/Pothole-Patrol">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Real1Ankush&repo=Pothole-Patrol&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" width="49%" alt="Pothole-Patrol" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Computer%20Vision-FF6B6B?style=flat-square" />
 </a>
-
-<!-- Project 2: WarrantyVault -->
+</p>
+<p align="center">Computer Vision based pothole detection system built with C++ and OpenCV.</p>
+<p align="center">
+<a href="https://github.com/Real1Ankush/Pothole-Patrol">
+<img src="https://img.shields.io/badge/View%20Repo-00D4FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">🔐 WarrantyVault</h3>
+<p align="center">
 <a href="https://github.com/Real1Ankush/WarrantyVault">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Real1Ankush&repo=WarrantyVault&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" width="49%" alt="WarrantyVault" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </a>
-
-<!-- Project 3: Solaris-AI -->
+</p>
+<p align="center">A smart warranty management app to track and organize product warranties.</p>
+<p align="center">
+<a href="https://github.com/Real1Ankush/WarrantyVault">
+<img src="https://img.shields.io/badge/View%20Repo-00D4FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">🤖 Solaris-AI</h3>
+<p align="center">
 <a href="https://github.com/Real1Ankush/Solaris-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Real1Ankush&repo=Solaris-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" width="49%" alt="Solaris-AI" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%2FML-FF6B6B?style=flat-square" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 </a>
+</p>
+<p align="center">An AI-powered project exploring machine learning and intelligent systems.</p>
+<p align="center">
+<a href="https://github.com/Real1Ankush/Solaris-AI">
+<img src="https://img.shields.io/badge/View%20Repo-00D4FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">📊 GitHub Profile</h3>
+<p align="center">
+<a href="https://github.com/Real1Ankush/Real1Ankush">
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+</a>
+</p>
+<p align="center">My personal GitHub profile README with analytics and automation.</p>
+<p align="center">
+<a href="https://github.com/Real1Ankush/Real1Ankush">
+<img src="https://img.shields.io/badge/View%20Repo-00D4FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -165,18 +227,6 @@ email: ankushdatta712@gmail.com
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-</div>
-
----
-
-## 📈 Contribution Snake
-
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Real1Ankush/Real1Ankush/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Real1Ankush/Real1Ankush/output/github-contribution-grid-snake.svg" />
-<img alt="github-snake" src="https://raw.githubusercontent.com/Real1Ankush/Real1Ankush/output/github-contribution-grid-snake.svg" />
-</picture>
 </div>
 
 ---
