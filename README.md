@@ -152,27 +152,28 @@ Short description of your project.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Real1Ankush&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=Real1Ankush&show_icons=true&hide_border=true&rank_icon=github"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Real1Ankush&layout=compact&hide_border=true&langs_count=8" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Real1Ankush&hide_border=true" />
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Real1Ankush&layout=compact&hide_border=true&langs_count=8"
+/>
 
 </div>
-
 ---
 
 # 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Real1Ankush&hide_border=true&area=true" width="95%"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Real1Ankush&theme=github-compact&hide_border=true&area=true"
+  width="95%"
+  alt="Ankush's GitHub Activity Graph"
+/>
 
 </div>
 
@@ -183,7 +184,10 @@ Short description of your project.
 <div align="center">
 
 <a href="https://github.com/Real1Ankush">
-  <img src="https://github-profile-trophy.vercel.app/?username=Real1Ankush&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Real1Ankush&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1"
+    alt="GitHub Trophies"
+  />
 </a>
 
 </div>
