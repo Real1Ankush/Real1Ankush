@@ -144,23 +144,7 @@ email: ankushdatta712@gmail.com
 </td>
 </tr>
 <tr>
-<td width="50%">
-<h3 align="center">🤖 Solaris-AI</h3>
-<p align="center">
-<a href="https://github.com/Real1Ankush/Solaris-AI">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%2FML-FF6B6B?style=flat-square" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-</a>
-</p>
-<p align="center">An AI-powered project exploring machine learning and intelligent systems.</p>
-<p align="center">
-<a href="https://github.com/Real1Ankush/Solaris-AI">
-<img src="https://img.shields.io/badge/View%20Repo-00D4FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
-</td>
-<td width="50%">
+
 <h3 align="center">📊 GitHub Profile</h3>
 <p align="center">
 <a href="https://github.com/Real1Ankush/Real1Ankush">
