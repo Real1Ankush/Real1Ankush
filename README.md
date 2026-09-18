@@ -107,14 +107,20 @@ email: ankushdatta712@gmail.com
 
 ---
 
-<h2 align="center">🔥 3D Contribution Graph</h2>
+<h2 align="center">🏙️ My GitHub Contribution City</h2>
 
 <p align="center">
-  <img
-    src="./profile-3d-contrib/profile-customize.svg"
-    alt="3D GitHub Contribution Graph"
-    width="100%"
-  />
+  <a href="https://gitcity.natrajx.in/Real1Ankush" target="_blank">
+    <img
+      src="https://gitcity.natrajx.in/api/svg?u=Real1Ankush&theme=aurora"
+      alt="Ankush Datta's GitHub Contribution City"
+      width="100%"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <i>Every contribution builds the city. 🏗️</i>
 </p>
 
 ---
