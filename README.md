@@ -111,11 +111,15 @@ email: ankushdatta712@gmail.com
 
 ---
 
-## 🔥 3D Contribution Graph
+<h2 align="center">🔥 3D Contribution Graph</h2>
 
-<div align="center">
-<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph" />
-</div>
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-customize.svg"
+    alt="3D GitHub Contribution Graph"
+    width="100%"
+  />
+</p>
 
 ---
 
