@@ -120,7 +120,9 @@ email: ankushdatta712@gmail.com
 </p>
 
 <p align="center">
-  <i>Every contribution builds the city. 🏗️</i>
+  <b>🏗️ Every commit builds the city.</b>
+  <br>
+  <sub>Click the city to explore the full interactive visualization.</sub>
 </p>
 
 ---
