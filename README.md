@@ -107,23 +107,21 @@ email: ankushdatta712@gmail.com
 
 ---
 
-<h2 align="center">🏙️ My GitHub Contribution City</h2>
+<h2 align="center">🌃 GitHub Contribution City</h2>
 
-<p align="center">
-  <a href="https://gitcity.natrajx.in/Real1Ankush" target="_blank">
-    <img
-      src="https://gitcity.natrajx.in/api/svg?u=Real1Ankush&theme=aurora"
-      alt="Ankush Datta's GitHub Contribution City"
-      width="100%"
-    />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>🏗️ Every commit builds the city.</b>
-  <br>
-  <sub>Click the city to explore the full interactive visualization.</sub>
-</p>
+<img
+  src="./assets/contribution-city.svg"
+  alt="Ankush Datta GitHub Contribution City"
+  width="100%"
+/>
+
+<br>
+
+<b>⚡ Every contribution builds the city.</b>
+
+</div>
 
 ---
 
