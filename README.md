@@ -1,9 +1,16 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
+<!-- Animated Venom Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Ankush%20Datta&fontSize=75&color=0:00D4FF,100:FF6B6B&stroke=00D4FF&strokeWidth=2&animation=twinkling&fontColor=FFFFFF" width="100%" />
+
+<br>
+
+<!-- Animated Typing Subtitle -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankush+Datta;Full-Stack+%26+AI%2FML+Developer;Building+Things+That+Matter+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=Full-Stack+%26+AI%2FML+Developer;Building+Things+That+Matter+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
+
+<br><br>
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=Real1Ankush&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -71,7 +78,7 @@ email: ankushdatta712@gmail.com
 <img src="https://img.shields.io/badge/🔥%20Current%20Streak-1%20day-FF6B6B?style=for-the-badge&labelColor=0D1117" />
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/📊%20Total%20Contributions-20-00D4FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/📊%20Total%20Contributions-41-00D4FF?style=for-the-badge&labelColor=0D1117" />
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/⭐%20Total%20Stars-0-FFD700?style=for-the-badge&labelColor=0D1117" />
@@ -100,6 +107,26 @@ email: ankushdatta712@gmail.com
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Real1Ankush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&cache_seconds=86400" width="48%" alt="Top Languages" />
 
+</div>
+
+---
+
+## 🔥 3D Contribution Graph
+
+<div align="center">
+<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Real1Ankush/Real1Ankush/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Real1Ankush/Real1Ankush/output/github-contribution-grid-snake.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/Real1Ankush/Real1Ankush/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
 
 ---
@@ -144,7 +171,23 @@ email: ankushdatta712@gmail.com
 </td>
 </tr>
 <tr>
-
+<td width="50%">
+<h3 align="center">🤖 Solaris-AI</h3>
+<p align="center">
+<a href="https://github.com/Real1Ankush/Solaris-AI">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%2FML-FF6B6B?style=flat-square" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+</a>
+</p>
+<p align="center">An AI-powered project exploring machine learning and intelligent systems.</p>
+<p align="center">
+<a href="https://github.com/Real1Ankush/Solaris-AI">
+<img src="https://img.shields.io/badge/View%20Repo-00D4FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+</td>
+<td width="50%">
 <h3 align="center">📊 GitHub Profile</h3>
 <p align="center">
 <a href="https://github.com/Real1Ankush/Real1Ankush">
@@ -214,12 +257,6 @@ email: ankushdatta712@gmail.com
 </div>
 
 ---
-
-## 🔥 3D Contribution Graph
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph" />
-</div>
 
 ## 🎯 Current Focus
 
