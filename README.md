@@ -104,25 +104,6 @@ email: ankushdatta712@gmail.com
 
 <br><br>
 
-
----
-
-<h2 align="center">🌃 GitHub Contribution City</h2>
-
-<div align="center">
-
-<img
-  src="./assets/contribution-city.svg"
-  alt="Ankush Datta GitHub Contribution City"
-  width="100%"
-/>
-
-<br>
-
-<b>⚡ Every contribution builds the city.</b>
-
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
