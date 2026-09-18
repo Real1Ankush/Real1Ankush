@@ -170,8 +170,7 @@ email: ankushdatta712@gmail.com
 </p>
 </td>
 </tr>
-<tr>
-<td width="50%">
+</table>
 
 ---
 
