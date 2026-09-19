@@ -31,7 +31,6 @@ query($login: String!) {
       totalPullRequestContributions
       totalPullRequestReviewContributions
       totalRepositoryContributions
-      totalContributions
       totalRepositoriesWithContributedCommits
 
       contributionCalendar {
@@ -159,8 +158,8 @@ total_repositories = contributions[
 ]
 
 total_contributions = contributions[
-    "totalContributions"
-]
+    "contributionCalendar"
+]["totalContributions"]
 
 contributed_repositories = contributions[
     "totalRepositoriesWithContributedCommits"
