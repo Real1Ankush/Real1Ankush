@@ -106,6 +106,21 @@ email: ankushdatta712@gmail.com
 
 ---
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img
+  src="./assets/github-stats.svg"
+  alt="Ankush Datta GitHub Statistics"
+  width="100%"
+/>
+
+</div>
+
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
