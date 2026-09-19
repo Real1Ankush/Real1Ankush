@@ -227,12 +227,12 @@ email: ankushdatta712@gmail.com
 
 ## 🎯 Current Focus
 
-```javascript
-DSA                 ███████████████░░░░░  Learning & Problem Solving
-Machine Learning    ████████████░░░░░░░░  Exploring & Building
-Web Development     ████████████████░░░░  Building Projects
-Computer Vision     ███████████░░░░░░░░░  Experimenting
-```
+<pre>
+DSA                 ███████████████░░░░░░░  Learning & Problem Solving
+Machine Learning    ████████████░░░░░░░░░░  Exploring & Building
+Web Development     ████████████████░░░░░░  Building Projects
+Computer Vision     ███████████░░░░░░░░░░░  Experimenting
+</pre>
 
 ---
 
