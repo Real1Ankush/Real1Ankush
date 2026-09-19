@@ -1,0 +1,46 @@
+name: Update GitHub Stats Card
+
+on:
+  schedule:
+    - cron: "15 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/github_stats.py"
+      - ".github/workflows/github-stats.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Generate GitHub Stats Card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 scripts/github_stats.py
+
+      - name: Commit generated SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/github-stats.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Update GitHub stats card"
+            git push
+          fi
