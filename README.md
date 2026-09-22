@@ -20,19 +20,22 @@
 <a href="mailto:ankushdatta712@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://linkedin.com/in/ankush-datta" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://instagram.com/myth._4nkush" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+
 <a href="https://www.leetcode.com/1nonlyankush" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 </p>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 </div>
 
@@ -77,20 +80,25 @@ email: ankushdatta712@gmail.com
 <td align="center">
 <img src="https://img.shields.io/badge/🔥%20Current%20Streak-1%20day-FF6B6B?style=for-the-badge&labelColor=0D1117" />
 </td>
+
 <td align="center">
 <img src="https://img.shields.io/badge/📊%20Total%20Contributions-41-00D4FF?style=for-the-badge&labelColor=0D1117" />
 </td>
+
 <td align="center">
 <img src="https://img.shields.io/badge/⭐%20Total%20Stars-0-FFD700?style=for-the-badge&labelColor=0D1117" />
 </td>
 </tr>
+
 <tr>
 <td align="center">
 <img src="https://img.shields.io/badge/📁%20Public%20Repos-4-00D4FF?style=for-the-badge&labelColor=0D1117" />
 </td>
+
 <td align="center">
 <img src="https://img.shields.io/badge/👥%20Followers-3-00D4FF?style=for-the-badge&labelColor=0D1117" />
 </td>
+
 <td align="center">
 <img src="https://img.shields.io/badge/🗓️%20Joined-Aug%202025-00D4FF?style=for-the-badge&labelColor=0D1117" />
 </td>
@@ -100,9 +108,19 @@ email: ankushdatta712@gmail.com
 <br>
 
 <!-- Contribution Streak -->
-<img src="https://streak-stats.demolab.com/?user=Real1Ankush&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="80%" alt="Contribution Streak" />
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=Real1Ankush&theme=tokyonight&hide_border=true"
+      alt="Ankush Datta's GitHub Contribution Streak"
+      width="80%"
+    />
+  </a>
+</p>
 
-<br><br>
+<br>
+
+</div>
 
 ---
 
@@ -118,17 +136,30 @@ email: ankushdatta712@gmail.com
 
 </div>
 
-
 ---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
+
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Real1Ankush/Real1Ankush/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Real1Ankush/Real1Ankush/output/github-contribution-grid-snake.svg" />
-<img alt="github-snake" src="https://raw.githubusercontent.com/Real1Ankush/Real1Ankush/output/github-contribution-grid-snake.svg" />
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/Real1Ankush/Real1Ankush/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/Real1Ankush/Real1Ankush/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+  alt="github-snake"
+  src="https://raw.githubusercontent.com/Real1Ankush/Real1Ankush/output/github-contribution-grid-snake.svg"
+/>
+
 </picture>
+
 </div>
 
 ---
@@ -138,9 +169,13 @@ email: ankushdatta712@gmail.com
 <div align="center">
 
 <table>
+
 <tr>
+
 <td width="50%">
+
 <h3 align="center">🚧 Pothole-Patrol</h3>
+
 <p align="center">
 <a href="https://github.com/Real1Ankush/Pothole-Patrol">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -148,15 +183,23 @@ email: ankushdatta712@gmail.com
 <img src="https://img.shields.io/badge/Computer%20Vision-FF6B6B?style=flat-square" />
 </a>
 </p>
-<p align="center">Computer Vision based pothole detection system built with C++ and OpenCV.</p>
+
+<p align="center">
+Computer Vision based pothole detection system built with C++ and OpenCV.
+</p>
+
 <p align="center">
 <a href="https://github.com/Real1Ankush/Pothole-Patrol">
 <img src="https://img.shields.io/badge/View%20Repo-00D4FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
+
 </td>
+
 <td width="50%">
+
 <h3 align="center">🔐 WarrantyVault</h3>
+
 <p align="center">
 <a href="https://github.com/Real1Ankush/WarrantyVault">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -164,14 +207,21 @@ email: ankushdatta712@gmail.com
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </a>
 </p>
-<p align="center">A smart warranty management app to track and organize product warranties.</p>
+
+<p align="center">
+A smart warranty management app to track and organize product warranties.
+</p>
+
 <p align="center">
 <a href="https://github.com/Real1Ankush/WarrantyVault">
 <img src="https://img.shields.io/badge/View%20Repo-00D4FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
+
 </td>
+
 </tr>
+
 </table>
 
 ---
@@ -225,23 +275,60 @@ email: ankushdatta712@gmail.com
 
 ---
 
+## 🎯 Current Focus
+
+<table align="center">
+
+<tr>
+<td align="right"><b>DSA</b></td>
+<td><code>###############-------</code></td>
+<td>Learning &amp; Problem Solving</td>
+</tr>
+
+<tr>
+<td align="right"><b>Machine Learning</b></td>
+<td><code>############------------</code></td>
+<td>Exploring &amp; Building</td>
+</tr>
+
+<tr>
+<td align="right"><b>Web Development</b></td>
+<td><code>################------</code></td>
+<td>Building Projects</td>
+</tr>
+
+<tr>
+<td align="right"><b>Computer Vision</b></td>
+<td><code>###########-----------</code></td>
+<td>Experimenting</td>
+</tr>
+
+</table>
+
+---
+
 <div align="center">
 
 ### 💬 Let's Connect & Build Something Amazing Together!
 
 <p>
+
 <a href="https://linkedin.com/in/ankush-datta" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://instagram.com/myth._4nkush" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+
 <a href="https://www.leetcode.com/1nonlyankush" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
+
 <a href="mailto:ankushdatta712@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 </p>
 
 <!-- Footer Wave -->
