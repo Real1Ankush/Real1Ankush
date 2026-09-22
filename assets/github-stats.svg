@@ -148,7 +148,7 @@ viewBox="0 0 1200 430">
     font-weight="700"
     fill="#00D4FF">
 
-    65
+    66
 
 </text>
 
@@ -220,7 +220,7 @@ viewBox="0 0 1200 430">
     font-weight="700"
     fill="#00D4FF">
 
-    3
+    4
 
 </text>
 
@@ -257,7 +257,7 @@ viewBox="0 0 1200 430">
     font-weight="700"
     fill="#F8FAFC">
 
-    22
+    26
 
 </text>
 
@@ -306,47 +306,47 @@ viewBox="0 0 1200 430">
         <rect
             x="640.00"
             y="118"
-            width="282.97"
+            width="261.46"
             height="10"
             fill="#3572A5"/>
         
 
         <rect
-            x="922.97"
+            x="901.46"
             y="118"
-            width="57.79"
+            width="62.23"
             height="10"
             fill="#f1e05a"/>
         
 
         <rect
-            x="980.77"
+            x="963.69"
             y="118"
-            width="48.40"
+            width="49.28"
+            height="10"
+            fill="#663399"/>
+        
+
+        <rect
+            x="1012.97"
+            y="118"
+            width="42.85"
             height="10"
             fill="#f34b7d"/>
         
 
         <rect
-            x="1029.17"
+            x="1055.82"
             y="118"
-            width="37.85"
+            width="33.51"
             height="10"
             fill="#DA3434"/>
         
 
         <rect
-            x="1067.02"
+            x="1089.33"
             y="118"
-            width="31.16"
-            height="10"
-            fill="#00B4AB"/>
-        
-
-        <rect
-            x="1098.18"
-            y="118"
-            width="41.82"
+            width="50.67"
             height="10"
             fill="#64748B"/>
         
@@ -377,7 +377,7 @@ viewBox="0 0 1200 430">
             font-weight="700"
             fill="#F8FAFC">
 
-            56.59%
+            52.29%
 
         </text>
         
@@ -408,7 +408,7 @@ viewBox="0 0 1200 430">
             font-weight="700"
             fill="#F8FAFC">
 
-            11.56%
+            12.45%
 
         </text>
         
@@ -417,7 +417,7 @@ viewBox="0 0 1200 430">
             cx="645"
             cy="203"
             r="5"
-            fill="#f34b7d"/>
+            fill="#663399"/>
 
         <text
             x="658"
@@ -426,7 +426,7 @@ viewBox="0 0 1200 430">
             font-size="14"
             fill="#D8DEE9">
 
-            C++
+            CSS
 
         </text>
 
@@ -439,7 +439,7 @@ viewBox="0 0 1200 430">
             font-weight="700"
             fill="#F8FAFC">
 
-            9.68%
+            9.86%
 
         </text>
         
@@ -448,7 +448,7 @@ viewBox="0 0 1200 430">
             cx="890"
             cy="203"
             r="5"
-            fill="#DA3434"/>
+            fill="#f34b7d"/>
 
         <text
             x="903"
@@ -457,7 +457,7 @@ viewBox="0 0 1200 430">
             font-size="14"
             fill="#D8DEE9">
 
-            CMake
+            C++
 
         </text>
 
@@ -470,7 +470,7 @@ viewBox="0 0 1200 430">
             font-weight="700"
             fill="#F8FAFC">
 
-            7.57%
+            8.57%
 
         </text>
         
@@ -479,7 +479,7 @@ viewBox="0 0 1200 430">
             cx="645"
             cy="246"
             r="5"
-            fill="#00B4AB"/>
+            fill="#DA3434"/>
 
         <text
             x="658"
@@ -488,7 +488,7 @@ viewBox="0 0 1200 430">
             font-size="14"
             fill="#D8DEE9">
 
-            Dart
+            CMake
 
         </text>
 
@@ -501,7 +501,7 @@ viewBox="0 0 1200 430">
             font-weight="700"
             fill="#F8FAFC">
 
-            6.23%
+            6.70%
 
         </text>
         
@@ -532,7 +532,7 @@ viewBox="0 0 1200 430">
             font-weight="700"
             fill="#F8FAFC">
 
-            8.36%
+            10.13%
 
         </text>
         
@@ -544,7 +544,7 @@ viewBox="0 0 1200 430">
         font-size="12"
         fill="#64748B">
 
-        68 contributions • 0 PR reviews
+        70 contributions • 0 PR reviews
 
     </text>
 
