@@ -148,7 +148,7 @@ viewBox="0 0 1200 430">
     font-weight="700"
     fill="#00D4FF">
 
-    67
+    70
 
 </text>
 
@@ -220,7 +220,7 @@ viewBox="0 0 1200 430">
     font-weight="700"
     fill="#00D4FF">
 
-    4
+    5
 
 </text>
 
@@ -257,7 +257,7 @@ viewBox="0 0 1200 430">
     font-weight="700"
     fill="#F8FAFC">
 
-    30
+    34
 
 </text>
 
@@ -306,47 +306,47 @@ viewBox="0 0 1200 430">
         <rect
             x="640.00"
             y="118"
-            width="261.46"
+            width="331.45"
             height="10"
             fill="#3572A5"/>
         
 
         <rect
-            x="901.46"
+            x="971.45"
             y="118"
-            width="62.23"
+            width="43.97"
             height="10"
             fill="#f1e05a"/>
         
 
         <rect
-            x="963.69"
+            x="1015.42"
             y="118"
-            width="49.28"
+            width="34.82"
             height="10"
             fill="#663399"/>
         
 
         <rect
-            x="1012.97"
+            x="1050.24"
             y="118"
-            width="42.85"
+            width="30.27"
             height="10"
             fill="#f34b7d"/>
         
 
         <rect
-            x="1055.82"
+            x="1080.52"
             y="118"
-            width="33.51"
+            width="23.68"
             height="10"
             fill="#DA3434"/>
         
 
         <rect
-            x="1089.33"
+            x="1104.19"
             y="118"
-            width="50.67"
+            width="35.81"
             height="10"
             fill="#64748B"/>
         
@@ -377,7 +377,7 @@ viewBox="0 0 1200 430">
             font-weight="700"
             fill="#F8FAFC">
 
-            52.29%
+            66.29%
 
         </text>
         
@@ -408,7 +408,7 @@ viewBox="0 0 1200 430">
             font-weight="700"
             fill="#F8FAFC">
 
-            12.45%
+            8.79%
 
         </text>
         
@@ -439,7 +439,7 @@ viewBox="0 0 1200 430">
             font-weight="700"
             fill="#F8FAFC">
 
-            9.86%
+            6.96%
 
         </text>
         
@@ -470,7 +470,7 @@ viewBox="0 0 1200 430">
             font-weight="700"
             fill="#F8FAFC">
 
-            8.57%
+            6.05%
 
         </text>
         
@@ -501,7 +501,7 @@ viewBox="0 0 1200 430">
             font-weight="700"
             fill="#F8FAFC">
 
-            6.70%
+            4.74%
 
         </text>
         
@@ -532,7 +532,7 @@ viewBox="0 0 1200 430">
             font-weight="700"
             fill="#F8FAFC">
 
-            10.13%
+            7.16%
 
         </text>
         
@@ -544,7 +544,7 @@ viewBox="0 0 1200 430">
         font-size="12"
         fill="#64748B">
 
-        174 contributions • 0 PR reviews
+        178 contributions • 0 PR reviews
 
     </text>
 
