@@ -148,7 +148,7 @@ viewBox="0 0 1200 430">
     font-weight="700"
     fill="#00D4FF">
 
-    70
+    74
 
 </text>
 
@@ -220,7 +220,7 @@ viewBox="0 0 1200 430">
     font-weight="700"
     fill="#00D4FF">
 
-    5
+    7
 
 </text>
 
@@ -257,7 +257,7 @@ viewBox="0 0 1200 430">
     font-weight="700"
     fill="#F8FAFC">
 
-    34
+    43
 
 </text>
 
@@ -306,47 +306,47 @@ viewBox="0 0 1200 430">
         <rect
             x="640.00"
             y="118"
-            width="331.45"
+            width="168.91"
+            height="10"
+            fill="#3178c6"/>
+        
+
+        <rect
+            x="808.91"
+            y="118"
+            width="129.12"
             height="10"
             fill="#3572A5"/>
         
 
         <rect
-            x="971.45"
+            x="938.03"
             y="118"
-            width="43.97"
+            width="108.96"
+            height="10"
+            fill="#DA5B0B"/>
+        
+
+        <rect
+            x="1046.99"
+            y="118"
+            width="27.37"
             height="10"
             fill="#f1e05a"/>
         
 
         <rect
-            x="1015.42"
+            x="1074.36"
             y="118"
-            width="34.82"
+            width="24.00"
             height="10"
             fill="#663399"/>
         
 
         <rect
-            x="1050.24"
+            x="1098.36"
             y="118"
-            width="30.27"
-            height="10"
-            fill="#f34b7d"/>
-        
-
-        <rect
-            x="1080.52"
-            y="118"
-            width="23.68"
-            height="10"
-            fill="#DA3434"/>
-        
-
-        <rect
-            x="1104.19"
-            y="118"
-            width="35.81"
+            width="41.64"
             height="10"
             fill="#64748B"/>
         
@@ -355,10 +355,41 @@ viewBox="0 0 1200 430">
             cx="645"
             cy="160"
             r="5"
-            fill="#3572A5"/>
+            fill="#3178c6"/>
 
         <text
             x="658"
+            y="165"
+            font-family="Arial, sans-serif"
+            font-size="14"
+            fill="#D8DEE9">
+
+            TypeScript
+
+        </text>
+
+        <text
+            x="820"
+            y="165"
+            text-anchor="end"
+            font-family="monospace"
+            font-size="13"
+            font-weight="700"
+            fill="#F8FAFC">
+
+            33.78%
+
+        </text>
+        
+
+        <circle
+            cx="890"
+            cy="160"
+            r="5"
+            fill="#3572A5"/>
+
+        <text
+            x="903"
             y="165"
             font-family="Arial, sans-serif"
             font-size="14"
@@ -369,7 +400,7 @@ viewBox="0 0 1200 430">
         </text>
 
         <text
-            x="820"
+            x="1065"
             y="165"
             text-anchor="end"
             font-family="monospace"
@@ -377,20 +408,51 @@ viewBox="0 0 1200 430">
             font-weight="700"
             fill="#F8FAFC">
 
-            66.29%
+            25.82%
+
+        </text>
+        
+
+        <circle
+            cx="645"
+            cy="203"
+            r="5"
+            fill="#DA5B0B"/>
+
+        <text
+            x="658"
+            y="208"
+            font-family="Arial, sans-serif"
+            font-size="14"
+            fill="#D8DEE9">
+
+            Jupyter Notebook
+
+        </text>
+
+        <text
+            x="820"
+            y="208"
+            text-anchor="end"
+            font-family="monospace"
+            font-size="13"
+            font-weight="700"
+            fill="#F8FAFC">
+
+            21.79%
 
         </text>
         
 
         <circle
             cx="890"
-            cy="160"
+            cy="203"
             r="5"
             fill="#f1e05a"/>
 
         <text
             x="903"
-            y="165"
+            y="208"
             font-family="Arial, sans-serif"
             font-size="14"
             fill="#D8DEE9">
@@ -401,27 +463,27 @@ viewBox="0 0 1200 430">
 
         <text
             x="1065"
-            y="165"
+            y="208"
             text-anchor="end"
             font-family="monospace"
             font-size="13"
             font-weight="700"
             fill="#F8FAFC">
 
-            8.79%
+            5.47%
 
         </text>
         
 
         <circle
             cx="645"
-            cy="203"
+            cy="246"
             r="5"
             fill="#663399"/>
 
         <text
             x="658"
-            y="208"
+            y="251"
             font-family="Arial, sans-serif"
             font-size="14"
             fill="#D8DEE9">
@@ -432,68 +494,6 @@ viewBox="0 0 1200 430">
 
         <text
             x="820"
-            y="208"
-            text-anchor="end"
-            font-family="monospace"
-            font-size="13"
-            font-weight="700"
-            fill="#F8FAFC">
-
-            6.96%
-
-        </text>
-        
-
-        <circle
-            cx="890"
-            cy="203"
-            r="5"
-            fill="#f34b7d"/>
-
-        <text
-            x="903"
-            y="208"
-            font-family="Arial, sans-serif"
-            font-size="14"
-            fill="#D8DEE9">
-
-            C++
-
-        </text>
-
-        <text
-            x="1065"
-            y="208"
-            text-anchor="end"
-            font-family="monospace"
-            font-size="13"
-            font-weight="700"
-            fill="#F8FAFC">
-
-            6.05%
-
-        </text>
-        
-
-        <circle
-            cx="645"
-            cy="246"
-            r="5"
-            fill="#DA3434"/>
-
-        <text
-            x="658"
-            y="251"
-            font-family="Arial, sans-serif"
-            font-size="14"
-            fill="#D8DEE9">
-
-            CMake
-
-        </text>
-
-        <text
-            x="820"
             y="251"
             text-anchor="end"
             font-family="monospace"
@@ -501,7 +501,7 @@ viewBox="0 0 1200 430">
             font-weight="700"
             fill="#F8FAFC">
 
-            4.74%
+            4.80%
 
         </text>
         
@@ -532,7 +532,7 @@ viewBox="0 0 1200 430">
             font-weight="700"
             fill="#F8FAFC">
 
-            7.16%
+            8.33%
 
         </text>
         
@@ -544,7 +544,7 @@ viewBox="0 0 1200 430">
         font-size="12"
         fill="#64748B">
 
-        278 contributions • 0 PR reviews
+        284 contributions • 0 PR reviews
 
     </text>
 
