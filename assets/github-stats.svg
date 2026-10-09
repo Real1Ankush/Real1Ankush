@@ -148,7 +148,7 @@ viewBox="0 0 1200 430">
     font-weight="700"
     fill="#00D4FF">
 
-    74
+    75
 
 </text>
 
@@ -220,7 +220,7 @@ viewBox="0 0 1200 430">
     font-weight="700"
     fill="#00D4FF">
 
-    7
+    8
 
 </text>
 
@@ -257,7 +257,7 @@ viewBox="0 0 1200 430">
     font-weight="700"
     fill="#F8FAFC">
 
-    43
+    47
 
 </text>
 
@@ -306,47 +306,47 @@ viewBox="0 0 1200 430">
         <rect
             x="640.00"
             y="118"
-            width="168.91"
+            width="160.89"
             height="10"
             fill="#3178c6"/>
         
 
         <rect
-            x="808.91"
+            x="800.89"
             y="118"
-            width="129.12"
+            width="125.89"
+            height="10"
+            fill="#e34c26"/>
+        
+
+        <rect
+            x="926.78"
+            y="118"
+            width="81.73"
             height="10"
             fill="#3572A5"/>
         
 
         <rect
-            x="938.03"
+            x="1008.51"
             y="118"
-            width="108.96"
+            width="68.97"
             height="10"
             fill="#DA5B0B"/>
         
 
         <rect
-            x="1046.99"
+            x="1077.48"
             y="118"
-            width="27.37"
-            height="10"
-            fill="#f1e05a"/>
-        
-
-        <rect
-            x="1074.36"
-            y="118"
-            width="24.00"
+            width="27.82"
             height="10"
             fill="#663399"/>
         
 
         <rect
-            x="1098.36"
+            x="1105.30"
             y="118"
-            width="41.64"
+            width="34.70"
             height="10"
             fill="#64748B"/>
         
@@ -377,7 +377,7 @@ viewBox="0 0 1200 430">
             font-weight="700"
             fill="#F8FAFC">
 
-            33.78%
+            32.18%
 
         </text>
         
@@ -386,7 +386,7 @@ viewBox="0 0 1200 430">
             cx="890"
             cy="160"
             r="5"
-            fill="#3572A5"/>
+            fill="#e34c26"/>
 
         <text
             x="903"
@@ -395,7 +395,7 @@ viewBox="0 0 1200 430">
             font-size="14"
             fill="#D8DEE9">
 
-            Python
+            HTML
 
         </text>
 
@@ -408,7 +408,7 @@ viewBox="0 0 1200 430">
             font-weight="700"
             fill="#F8FAFC">
 
-            25.82%
+            25.18%
 
         </text>
         
@@ -417,7 +417,7 @@ viewBox="0 0 1200 430">
             cx="645"
             cy="203"
             r="5"
-            fill="#DA5B0B"/>
+            fill="#3572A5"/>
 
         <text
             x="658"
@@ -426,7 +426,7 @@ viewBox="0 0 1200 430">
             font-size="14"
             fill="#D8DEE9">
 
-            Jupyter Notebook
+            Python
 
         </text>
 
@@ -439,7 +439,7 @@ viewBox="0 0 1200 430">
             font-weight="700"
             fill="#F8FAFC">
 
-            21.79%
+            16.35%
 
         </text>
         
@@ -448,7 +448,7 @@ viewBox="0 0 1200 430">
             cx="890"
             cy="203"
             r="5"
-            fill="#f1e05a"/>
+            fill="#DA5B0B"/>
 
         <text
             x="903"
@@ -457,7 +457,7 @@ viewBox="0 0 1200 430">
             font-size="14"
             fill="#D8DEE9">
 
-            JavaScript
+            Jupyter Notebook
 
         </text>
 
@@ -470,7 +470,7 @@ viewBox="0 0 1200 430">
             font-weight="700"
             fill="#F8FAFC">
 
-            5.47%
+            13.79%
 
         </text>
         
@@ -501,7 +501,7 @@ viewBox="0 0 1200 430">
             font-weight="700"
             fill="#F8FAFC">
 
-            4.80%
+            5.56%
 
         </text>
         
@@ -532,7 +532,7 @@ viewBox="0 0 1200 430">
             font-weight="700"
             fill="#F8FAFC">
 
-            8.33%
+            6.94%
 
         </text>
         
@@ -544,7 +544,7 @@ viewBox="0 0 1200 430">
         font-size="12"
         fill="#64748B">
 
-        279 contributions • 0 PR reviews
+        281 contributions • 0 PR reviews
 
     </text>
 
